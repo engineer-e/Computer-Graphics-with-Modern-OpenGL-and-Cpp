@@ -4,7 +4,42 @@
 
 #include <GL\glew.h>
 #include <GLFW\glfw3.h>
-#include <glm/mat4x4.hpp>
+
+#include <glm/glm.hpp>
+#include <glm/gtc/matrix_transform.hpp>
+#include <glm/gtc/type_ptr.hpp>
+
+
+/*
+Identity Matrices
+IMPORTANT!!
+
+
+In the following lesson, when using GLM, I identify an Identity Matrix as follows:
+
+glm::mat4 model;
+
+
+However, this no longer works in newer versions of GLM! The new way to initialise an Identity Matrix is as follows:
+
+glm::mat4 model(1.0f);
+
+Or alternatively:
+
+glm::mat4 model = glm::mat4(1.0f);
+
+
+This will also need to be performed on subsequent reinitialisations, like so:
+
+model = glm::mat(1.0f);
+
+
+If you use the old way, you will find your objects don't appear because they are being given garbage transform data! Every time you need to initialise an Identity Matrix, make sure you use this new way of initialising to ensure your program works.
+
+Apologies for any confusion this may have caused!
+
+*/
+//#include <glm/mat4x4.hpp>
 
 // Window dimensions
 const GLint WIDTH = 800, HEIGHT = 600;
