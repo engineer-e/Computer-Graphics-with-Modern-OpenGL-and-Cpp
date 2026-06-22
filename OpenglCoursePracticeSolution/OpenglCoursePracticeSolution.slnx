@@ -3,11 +3,12 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Interpolation/Interpolation.vcxproj" />
-  <Project Path="OpenglCoursePracticeProject/OpenglCoursePracticeProject.vcxproj" />
-  <Project Path="Rotation/Rotation.vcxproj" />
-  <Project Path="Scaling/Scaling.vcxproj" />
-  <Project Path="Translate/Translate.vcxproj" />
-  <Project Path="Triangle/Triangle.vcxproj" />
-  <Project Path="Uniform/Uniform.vcxproj" />
+  <Project Path="IndexedDraws/IndexedDraws.vcxproj" Id="1a3d25fb-7aed-4c7b-8cf3-d80c13295fce" />
+  <Project Path="Interpolation/Interpolation.vcxproj" Id="50f883cd-f855-4563-bea2-3b85c06a063c" />
+  <Project Path="OpenglCoursePracticeProject/OpenglCoursePracticeProject.vcxproj" Id="97b2d762-ec8c-4371-bca4-cb8a28cf2959" />
+  <Project Path="Rotation/Rotation.vcxproj" Id="43d387d4-cc34-4b5b-9028-5a9f2c57b1ab" />
+  <Project Path="Scaling/Scaling.vcxproj" Id="2f9d9e48-e368-4cf4-8c78-c64ab2a8721b" />
+  <Project Path="Translate/Translate.vcxproj" Id="8d47f394-035d-48a2-82b4-05d1755f4eca" />
+  <Project Path="Triangle/Triangle.vcxproj" Id="5eb9f47c-4252-45ed-9b24-d48e54bba93e" />
+  <Project Path="Uniform/Uniform.vcxproj" Id="4488db82-2022-4ed9-8597-aebe2f670129" />
 </Solution>
