@@ -5,7 +5,7 @@
 #### C/C++ > General
 
 ```code
-$(SolutionDir)/../ExternalLib/GLFW/include;$(SolutionDir)/../ExternalLib/GLEW/include
+$(SolutionDir)/../ExternalLib/GLFW/include;$(SolutionDir)/../ExternalLib/GLEW/include;$(SolutionDir)/../ExternalLib/GLM
 ```
 
 #### Linker > General 
