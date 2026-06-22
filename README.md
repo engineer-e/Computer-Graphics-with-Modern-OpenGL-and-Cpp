@@ -5,7 +5,7 @@
 #### C/C++ > General
 
 ```code
-$(SolutionDir)/../ExternalLib/GLFW/include;$(SolutionDir)/../ExternalLib/GLEW/include;$(SolutionDir)/../ExternalLib/GLM
+$(SolutionDir)/../ExternalLib/GLFW/include;$(SolutionDir)/../ExternalLib/GLEW/include;$(SolutionDir)/../ExternalLib/GLM;
 ```
 
 #### Linker > General 
@@ -36,7 +36,7 @@ opengl32.lib;glew32.lib;glfw3.lib;%(AdditionalDependencies)
 |7||Uniform Variables ✔️| [C](OpenglCoursePracticeSolution/Uniform/Uniform.cpp) . [O](Output/3/)  . [V](https://youtu.be/xCkggfKXd5Y?si=yQQgOAvYufK1Sfvs)|
 |8||Using GLM (OpenGL Maths Library)| |
 |9||Regarding GLM Identity Matrices||
-|10||Transforming - Translation| [C]() . [O]()  . [I]()|
+|10||Transforming - Translation ✔️| [C](OpenglCoursePracticeSolution/Translate/Translate.cpp) . [O](Output/4/Translate.exe) . [V](https://youtu.be/xCkggfKXd5Y?si=yQQgOAvYufK1Sfvs)|
 |11||Transforming - Rotation| [C]() . [O]()  . [I]()|
 |12||Transforming - Scaling| [C ]() . [O]()  . [ I]()|
 |13||Interpolation, Indexed Draws and Projections|T|
