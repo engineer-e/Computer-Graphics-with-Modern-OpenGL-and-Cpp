@@ -5,6 +5,7 @@
   </Configurations>
   <Project Path="OpenglCoursePracticeProject/OpenglCoursePracticeProject.vcxproj" />
   <Project Path="Rotation/Rotation.vcxproj" />
+  <Project Path="Scaling/Scaling.vcxproj" />
   <Project Path="Translate/Translate.vcxproj" />
   <Project Path="Triangle/Triangle.vcxproj" />
   <Project Path="Uniform/Uniform.vcxproj" />
