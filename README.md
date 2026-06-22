@@ -1,5 +1,26 @@
 # Computer-Graphics-with-Modern-OpenGL-and-Cpp
 
+### Path
+
+#### C/C++ > General
+
+```code
+$(SolutionDir)/../ExternalLib/GLFW/include;$(SolutionDir)/../ExternalLib/GLEW/include
+```
+
+#### Linker > General 
+
+```code
+$(SolutionDir)/../ExternalLib/GLFW/lib;$(SolutionDir)/../ExternalLib/GLEW/lib
+```
+
+#### Linker > Input 
+
+```code
+opengl32.lib;glew32.lib;glfw3.lib;%(AdditionalDependencies)
+```
+
+
 > practice
 
 | S.no| Title | Topics | Type |  
