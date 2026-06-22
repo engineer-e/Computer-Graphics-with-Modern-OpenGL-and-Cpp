@@ -12,7 +12,7 @@
 |4||Shaders and the Rendering Pipeline|T|
 |5||Shaders and the First Triangle ✔️| [C ](OpenglCoursePracticeSolution/Triangle/Triangle.cpp) . [O](Output/2/)  . [I](images/output/2.png) |
 |6||Vectors, Matrices, and Uniform Variables |T|
-|7||Uniform Variables | [C ]() . [O]()  . [ I]()|
+|7||Uniform Variables | [C](OpenglCoursePracticeSolution/Uniform/Uniform.cpp) . [O](Output/3/)  . [V](video/3.Uniform/uniform.mp4)|
 |8||Using GLM (OpenGL Maths Library)| [C ]() . [O]()  . [ I]()|
 |9||Regarding GLM Identity Matrices||
 |10||Transforming - Translation| [C ]() . [O]()  . [ I]()|
