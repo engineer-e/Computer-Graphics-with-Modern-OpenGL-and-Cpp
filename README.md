@@ -7,7 +7,7 @@
 | 1 | Introduction | | |
 | 1||[About this Course ✔️](images/theory/1.%20about%20this%20course.png)| |
 | 2||Introduction to GLEW, GLFW, and SDL |Theory|
-| 3||Setting up GLEW with GLFW |[C](OpenglCoursePracticeSolution/OpenglCoursePracticeProject/OpenglCoursePracticeProject.cpp) . [O](OpenglCoursePracticeSolution/x64/Debug/) . [I](images/output/1.png) ✔️|
+| 3||Setting up GLEW with GLFW |[C](OpenglCoursePracticeSolution/OpenglCoursePracticeProject/OpenglCoursePracticeProject.cpp) . [O](Output/1/) . [I](images/output/1.png) ✔️|
 |2|Beginner|||
 |4||||
 |5||||
