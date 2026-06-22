@@ -40,7 +40,7 @@ opengl32.lib;glew32.lib;glfw3.lib;%(AdditionalDependencies)
 |11||Transforming - Rotation ✔️| [C](OpenglCoursePracticeSolution/Rotation/Rotation.cpp) . [O](Output/5/Rotation.exe)  . [V](https://youtu.be/rjVGYyT1bdQ?si=oVxplye3zsihkIcN)|
 |12||Transforming - Scaling ✔️| [C](OpenglCoursePracticeSolution/Scaling/Scaling.cpp) . [O](Output/6/Scaling.exe)  . [V](https://youtu.be/tW53CuFJUDY)|
 |13||Interpolation, Indexed Draws and Projections|T|
-|14||Interpolation| [C]() . [O]()  . [I]()|
+|14||Interpolation| [C](OpenglCoursePracticeSolution/Interpolation/Interpolation.cpp) . [O](Output/7/Interpolation.exe) . [I](images/output/6/interpolation.png)|
 |15||Indexed Draws| [C ]() . [O]()  . [I]()|
 |16||Projections| [C]() . [O]()  . [I]()|
 |17||Clean Up| [C]() . [O]()  . [I]()|

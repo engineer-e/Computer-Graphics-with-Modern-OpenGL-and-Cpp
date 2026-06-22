@@ -3,6 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="Interpolation/Interpolation.vcxproj" />
   <Project Path="OpenglCoursePracticeProject/OpenglCoursePracticeProject.vcxproj" />
   <Project Path="Rotation/Rotation.vcxproj" />
   <Project Path="Scaling/Scaling.vcxproj" />
