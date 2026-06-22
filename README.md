@@ -7,10 +7,10 @@
 | A | Introduction | | |
 | 1||[About this Course ✔️](images/theory/1.%20about%20this%20course.png)| |
 | 2||Introduction to GLEW, GLFW, and SDL |T|
-| 3||Setting up GLEW with GLFW |[C](OpenglCoursePracticeSolution/OpenglCoursePracticeProject/OpenglCoursePracticeProject.cpp) . [O](Output/1/) . [I](images/output/1.png) ✔️|
+| 3||Setting up GLEW with GLFW ✔️ |[C](OpenglCoursePracticeSolution/OpenglCoursePracticeProject/OpenglCoursePracticeProject.cpp) . [O](Output/1/) . [I](images/output/1.png)|
 |B|Beginner|||
 |4||Shaders and the Rendering Pipeline|T|
-|5||Shaders and the First Triangle| [C ](OpenglCoursePracticeSolution/Triangle/Triangle.cpp) . [O](Output/2/)  . [I](images/output/2.png) ✔️|
+|5||Shaders and the First Triangle ✔️| [C ](OpenglCoursePracticeSolution/Triangle/Triangle.cpp) . [O](Output/2/)  . [I](images/output/2.png) |
 |6||Vectors, Matrices, and Uniform Variables |T|
 |7||Uniform Variables | [C ]() . [O]()  . [ I]()|
 |8||Using GLM (OpenGL Maths Library)| [C ]() . [O]()  . [ I]()|
