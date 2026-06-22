@@ -13,16 +13,16 @@
 |5||Shaders and the First Triangle ✔️| [C ](OpenglCoursePracticeSolution/Triangle/Triangle.cpp) . [O](Output/2/)  . [I](images/output/2.png) |
 |6||Vectors, Matrices, and Uniform Variables |T|
 |7||Uniform Variables ✔️| [C](OpenglCoursePracticeSolution/Uniform/Uniform.cpp) . [O](Output/3/)  . [V](https://youtu.be/xCkggfKXd5Y?si=yQQgOAvYufK1Sfvs)|
-|8||Using GLM (OpenGL Maths Library)| [C ]() . [O]()  . [ I]()|
+|8||Using GLM (OpenGL Maths Library)| [C]() . [O]()  . [I]()|
 |9||Regarding GLM Identity Matrices||
-|10||Transforming - Translation| [C ]() . [O]()  . [ I]()|
-|11||Transforming - Rotation| [C ]() . [O]()  . [ I]()|
+|10||Transforming - Translation| [C]() . [O]()  . [I]()|
+|11||Transforming - Rotation| [C]() . [O]()  . [I]()|
 |12||Transforming - Scaling| [C ]() . [O]()  . [ I]()|
 |13||Interpolation, Indexed Draws and Projections|T|
-|14||Interpolation| [C ]() . [O]()  . [ I]()|
-|15||Indexed Draws| [C ]() . [O]()  . [ I]()|
-|16||Projections| [C ]() . [O]()  . [ I]()|
-|17||Clean Up| [C ]() . [O]()  . [ I]()|
+|14||Interpolation| [C]() . [O]()  . [I]()|
+|15||Indexed Draws| [C ]() . [O]()  . [I]()|
+|16||Projections| [C]() . [O]()  . [I]()|
+|17||Clean Up| [C]() . [O]()  . [I]()|
 |C|The Camera|||
 |18||The Camera and User Input|T|
 |19||Camera: Input with GLFW| [C ]() . [O]()  . [ I]()|

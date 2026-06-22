@@ -111,7 +111,7 @@
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp20</LanguageStandard>
-      <AdditionalIncludeDirectories>$(SolutionDir)/../ExternalLib/GLFW/include;$(SolutionDir)/../ExternalLib/GLEW/include</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)/../ExternalLib/GLFW/include;$(SolutionDir)/../ExternalLib/GLEW/include;$(SolutionDir)/../ExternalLib/GLM</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
