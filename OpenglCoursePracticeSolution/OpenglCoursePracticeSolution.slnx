@@ -3,11 +3,27 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="AmbientLighting/AmbientLighting.vcxproj" Id="5ff7e560-3418-43af-bf5b-598ed63e6c23" />
+  <Project Path="CameraFacingRandomDirection/CameraFacingRandomDirection.vcxproj" Id="7fb447b9-ae7c-49a7-830d-329a839abd0c" />
+  <Project Path="CameraInputWithGLFW/CameraInputWithGLFW.vcxproj" Id="c7001cb6-70c3-4bf0-9a69-1a95fefd9b1f" />
+  <Project Path="CameraMovement/CameraMovement.vcxproj" Id="ab8086ac-3242-482e-aca0-e42d2740f0cd" />
+  <Project Path="CleanUp/CleanUp.vcxproj" Id="8ed38465-5543-4ed4-bf7f-b39842551dca" />
+  <Project Path="DiffuseLighting/DiffuseLighting.vcxproj" Id="d40c867c-4747-4491-a89d-982b855bfbc2" />
+  <Project Path="DirectionalShadowMaps/DirectionalShadowMaps.vcxproj" Id="0a20517b-20be-4166-9923-504c6fc3116b" />
   <Project Path="IndexedDraws/IndexedDraws.vcxproj" Id="1a3d25fb-7aed-4c7b-8cf3-d80c13295fce" />
   <Project Path="Interpolation/Interpolation.vcxproj" Id="50f883cd-f855-4563-bea2-3b85c06a063c" />
+  <Project Path="ModelImporting/ModelImporting.vcxproj" Id="9e75c208-2c8f-47c2-861e-58603e9591d1" />
+  <Project Path="OmnidirectionalShadowMaps/OmnidirectionalShadowMaps.vcxproj" Id="da9329c5-5ca9-45cd-92f7-45ac053d94ac" />
+  <Project Path="OmnidirectionalShadowMaps_Final/OmnidirectionalShadowMaps_Final.vcxproj" Id="449a4833-85a1-47ef-88d3-7a9581106d69" />
   <Project Path="OpenglCoursePracticeProject/OpenglCoursePracticeProject.vcxproj" Id="97b2d762-ec8c-4371-bca4-cb8a28cf2959" />
+  <Project Path="PointLights/PointLights.vcxproj" Id="33f5a8a4-6c2d-43b8-85c3-4da4bfc07c4f" />
+  <Project Path="Projections/Projections.vcxproj" Id="174c7361-0f0e-4e76-971f-b53cbd3e33ab" />
   <Project Path="Rotation/Rotation.vcxproj" Id="43d387d4-cc34-4b5b-9028-5a9f2c57b1ab" />
   <Project Path="Scaling/Scaling.vcxproj" Id="2f9d9e48-e368-4cf4-8c78-c64ab2a8721b" />
+  <Project Path="Skybox/Skybox.vcxproj" Id="60a02375-243c-4ee0-ad79-c2de613ba5e8" />
+  <Project Path="SpecularLighting/SpecularLighting.vcxproj" Id="d81fb301-e7db-4895-b538-468888a3c6b5" />
+  <Project Path="SpotLights/SpotLights.vcxproj" Id="a3bda46e-936b-4f47-8b57-7ff71d3cd810" />
+  <Project Path="TextureMapping/TextureMapping.vcxproj" Id="7e9e03df-18e0-49de-b68a-0088f45491fb" />
   <Project Path="Translate/Translate.vcxproj" Id="8d47f394-035d-48a2-82b4-05d1755f4eca" />
   <Project Path="Triangle/Triangle.vcxproj" Id="5eb9f47c-4252-45ed-9b24-d48e54bba93e" />
   <Project Path="Uniform/Uniform.vcxproj" Id="4488db82-2022-4ed9-8597-aebe2f670129" />
