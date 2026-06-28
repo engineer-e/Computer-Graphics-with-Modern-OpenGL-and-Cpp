@@ -73,4 +73,5 @@ opengl32.lib;glew32.lib;glfw3.lib;%(AdditionalDependencies)
 |40||Outputs||
 
 ### Anatomical Notes on Species
+
 1. [Human](images/human_anatomy/readme.md) 
