@@ -51,13 +51,13 @@ opengl32.lib;glew32.lib;glfw3.lib;%(AdditionalDependencies)
 |21||Camera: Movement ✔️| [C](OpenglCoursePracticeSolution/CameraMovement/CameraMovement.cpp) . [O](Output/11/CameraMovement.exe)  . [V](https://youtu.be/gbXbKwGfz58)|
 |D|Intermediate|||
 |22||Textures and Image Loading|T|
-|23||Texture Mapping| [C](OpenglCoursePracticeSolution/TextureMapping/TextureMapping.cpp) . [O]()  . [ I]()|
+|23||Texture Mapping ✔️ | [C](OpenglCoursePracticeSolution/TextureMapping/TextureMapping.cpp) . [O](Output/12/TextureMapping.exe)  . [I](images/output/texture.png)|
 |24||Phong Lighting and Directional Lights|T|
-|25||Ambient Lighting| [C](OpenglCoursePracticeSolution/AmbientLighting/AmbientLighting.cpp) . [O]()  . [ I]()|
-|26||Diffuse Lighting| [C](OpenglCoursePracticeSolution/DiffuseLighting/DiffuseLighting.cpp) . [O]()  . [ I]()|
-|27||Specular Lighting| [C](OpenglCoursePracticeSolution/SpecularLighting/SpecularLighting.cpp) . [O]()  . [ I]()|
+|25||Ambient Lighting  ✔️ | [C](OpenglCoursePracticeSolution/AmbientLighting/AmbientLighting.cpp) . [O](Output/13/AmbientLighting.exe)  . [I](https://youtu.be/_vq-ilZpshI) |
+|26||Diffuse Lighting ✔️ | [C](OpenglCoursePracticeSolution/DiffuseLighting/DiffuseLighting.cpp) . [O](Output/14/DiffuseLighting.exe)  . [I](images/output/diffuse.png) |
+|27||Specular Lighting ✔️ | [C](OpenglCoursePracticeSolution/SpecularLighting/SpecularLighting.cpp) . [O](Output/15/SpecularLighting.exe) . [I](images/output/specular.png) |
 |28||Point Lights and Spot Lights|T|
-|29||Point Lights| [C](OpenglCoursePracticeSolution/PointLights/PointLights.cpp) . [O]()  . [ I]()|
+|29||Point Lights ✔️ | [C](OpenglCoursePracticeSolution/PointLights/PointLights.cpp) . [O](Output/16/PointLights.exe)  . [I](images/output/pointlight.png)|
 |30||Spot Lights| [C](OpenglCoursePracticeSolution/SpotLights/SpotLights.cpp) . [O]()  . [ I]()|
 |31||Model Importing| [C](OpenglCoursePracticeSolution/ModelImporting/ModelImporting.cpp) . [O]()  . [ I]()|
 |E|Advanced|||
