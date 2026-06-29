@@ -1,5 +1,7 @@
 # Computer-Graphics-with-Modern-OpenGL-and-Cpp
 
+![final output](images/output/final/sky3.png)
+
 ### Path
 
 #### C/C++ > General
