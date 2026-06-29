@@ -46,9 +46,9 @@ opengl32.lib;glew32.lib;glfw3.lib;%(AdditionalDependencies)
 |17||Clean Up ✔️ | [C](OpenglCoursePracticeSolution/CleanUp/CleanUp.cpp) . [O](Output/10/CleanUp.exe)  . [I](images/output/clean_up.png)|
 |C|The Camera|||
 |18||The Camera and User Input|T|
-|19||Camera: Input with GLFW| [C ](OpenglCoursePracticeSolution/CameraInputWithGLFW/CameraInputWithGLFW.cpp) . [O]()  . [ I]()|
-|20||Camera: Facing Random Direction| [C ](OpenglCoursePracticeSolution/CameraFacingRandomDirection/CameraFacingRandomDirection.cpp) . [O]()  . [ I]()|
-|21||Camera: Movement| [C ](OpenglCoursePracticeSolution/CameraMovement/CameraMovement.cpp) . [O]()  . [ I]()|
+|19||Camera: Input with GLFW  ❌| |
+|20||Camera: Facing Random Direction ❌| |
+|21||Camera: Movement ✔️| [C](OpenglCoursePracticeSolution/CameraMovement/CameraMovement.cpp) . [O](Output/11/CameraMovement.exe)  . [V](https://youtu.be/gbXbKwGfz58)|
 |D|Intermediate|||
 |22||Textures and Image Loading|T|
 |23||Texture Mapping| [C](OpenglCoursePracticeSolution/TextureMapping/TextureMapping.cpp) . [O]()  . [ I]()|
