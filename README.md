@@ -40,10 +40,10 @@ opengl32.lib;glew32.lib;glfw3.lib;%(AdditionalDependencies)
 |11||Transforming - Rotation ✔️| [C](OpenglCoursePracticeSolution/Rotation/Rotation.cpp) . [O](Output/5/Rotation.exe)  . [V](https://youtu.be/rjVGYyT1bdQ?si=oVxplye3zsihkIcN)|
 |12||Transforming - Scaling ✔️| [C](OpenglCoursePracticeSolution/Scaling/Scaling.cpp) . [O](Output/6/Scaling.exe)  . [V](https://youtu.be/tW53CuFJUDY)|
 |13||Interpolation, Indexed Draws and Projections|T|
-|14||Interpolation ✔️| [C](OpenglCoursePracticeSolution/Interpolation/Interpolation.cpp) . [O](Output/7/Interpolation.exe) . [I](images/output/6/interpolation.png)|
-|15||Indexed Draws | [C](OpenglCoursePracticeSolution/IndexedDraws/IndexedDraws.cpp) . [O]()  . [I]()|
-|16||Projections| [C](OpenglCoursePracticeSolution/Projections/Projections.cpp) . [O]()  . [I]()|
-|17||Clean Up| [C](OpenglCoursePracticeSolution/CleanUp/CleanUp.cpp) . [O]()  . [I]()|
+|14||Interpolation ✔️ | [C](OpenglCoursePracticeSolution/Interpolation/Interpolation.cpp) . [O](Output/7/Interpolation.exe) . [I](images/output/6/interpolation.png)|
+|15||Indexed Draws ✔️ | [C](OpenglCoursePracticeSolution/IndexedDraws/IndexedDraws.cpp) . [O](Output/8/IndexedDraws.exe)  . [V](https://youtu.be/AMOz2GBiuRM?si=yA8PNzgMJGyyoUCm)|
+|16||Projections ✔️ | [C](OpenglCoursePracticeSolution/Projections/Projections.cpp) . [O](Output/9/Projections.exe)  . [V](https://youtu.be/nuzgIz1EvyQ?si=UG4qkJKYVjRMOwRN)|
+|17||Clean Up ✔️ | [C](OpenglCoursePracticeSolution/CleanUp/CleanUp.cpp) . [O](Output/10/CleanUp.exe)  . [I](images/output/clean_up.png)|
 |C|The Camera|||
 |18||The Camera and User Input|T|
 |19||Camera: Input with GLFW| [C ](OpenglCoursePracticeSolution/CameraInputWithGLFW/CameraInputWithGLFW.cpp) . [O]()  . [ I]()|
