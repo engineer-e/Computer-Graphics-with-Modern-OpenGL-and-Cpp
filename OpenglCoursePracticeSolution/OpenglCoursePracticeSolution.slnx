@@ -20,7 +20,7 @@
   <Project Path="Projections/Projections.vcxproj" Id="174c7361-0f0e-4e76-971f-b53cbd3e33ab" />
   <Project Path="Rotation/Rotation.vcxproj" Id="43d387d4-cc34-4b5b-9028-5a9f2c57b1ab" />
   <Project Path="Scaling/Scaling.vcxproj" Id="2f9d9e48-e368-4cf4-8c78-c64ab2a8721b" />
-  <Project Path="Skybox/Skybox.vcxproj" Id="60a02375-243c-4ee0-ad79-c2de613ba5e8" />
+  <Project Path="Skybox_Final/Skybox_Final.vcxproj" Id="1a2bdb46-a28c-4fd1-8399-ab497e854331" />
   <Project Path="SpecularLighting/SpecularLighting.vcxproj" Id="d81fb301-e7db-4895-b538-468888a3c6b5" />
   <Project Path="SpotLights/SpotLights.vcxproj" Id="a3bda46e-936b-4f47-8b57-7ff71d3cd810" />
   <Project Path="TextureMapping/TextureMapping.vcxproj" Id="7e9e03df-18e0-49de-b68a-0088f45491fb" />

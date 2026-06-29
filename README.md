@@ -62,12 +62,12 @@ opengl32.lib;glew32.lib;glfw3.lib;%(AdditionalDependencies)
 |31||Model Importing ✔️| [C](OpenglCoursePracticeSolution/ModelImporting/ModelImporting.cpp)[O](Output/18/ModelImporting.exe)[I](https://youtu.be/eZlVnELcC0w)|
 |E|Advanced|||
 |32||Shadow Mapping|T|
-|33||Directional Shadow Maps| [C](OpenglCoursePracticeSolution/DirectionalShadowMaps/DirectionalShadowMaps.cpp)[O]()[ I]()|
+|33||Directional Shadow Maps ✔️ | [C](OpenglCoursePracticeSolution/DirectionalShadowMaps/DirectionalShadowMaps.cpp)[O](Output/19/DirectionalShadowMaps.exe)[I](https://youtu.be/GATozmhkEwA) |
 |34||Omnidirectional Shadows, Cube Maps and the Geometry Shader|T|
-|35||Omnidirectional Shadow Maps : Creating the Cubemap| [C](OpenglCoursePracticeSolution/OmnidirectionalShadowMaps/OmnidirectionalShadowMaps.cpp)[O]()[ I]()|
-|36||Omnidirectional Shadow Maps : Applying the Shadow Map| [C](OpenglCoursePracticeSolution/OmnidirectionalShadowMaps_Final/OmnidirectionalShadowMaps_Final.cpp)[O]()[ I]()|
+|35||Omnidirectional Shadow Maps : Creating the Cubemap ❌ | |
+|36||Omnidirectional Shadow Maps : Applying the Shadow Map ✔️ | [C](OpenglCoursePracticeSolution/OmnidirectionalShadowMaps_Final/OmnidirectionalShadowMaps_Final.cpp)[O](Output/20/OmnidirectionalShadowMaps_Final.exe)[I](https://youtu.be/KZD1KjO6hbA)|
 |37||The Skybox|T|
-|38||The Skybox| [C](OpenglCoursePracticeSolution/Skybox/Skybox.cpp)[O]()[ I]()|
+|38||The Skybox ✔️ | [C](OpenglCoursePracticeSolution/Skybox/Skybox.cpp)[O](Output/21/Skybox_Final.exe)[I](https://youtu.be/AisQZippPPc)|
 |F|Ending and the Future of this Course|||
 |39||The Future of this Course||
 |40||Outputs||
