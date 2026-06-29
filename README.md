@@ -33,22 +33,22 @@ opengl32.lib;glew32.lib;glfw3.lib;%(AdditionalDependencies)
 |4||Shaders and the Rendering Pipeline|T|
 |5||Shaders and the First Triangle ✔️| [C ](OpenglCoursePracticeSolution/Triangle/Triangle.cpp) . [O](Output/2/)  . [I](images/output/2.png) |
 |6||Vectors, Matrices, and Uniform Variables |T|
-|7||Uniform Variables ✔️| [C](OpenglCoursePracticeSolution/Uniform/Uniform.cpp) . [O](Output/3/)  . [V](https://youtu.be/xCkggfKXd5Y?si=yQQgOAvYufK1Sfvs)|
+|7||Uniform Variables ✔️| [C](OpenglCoursePracticeSolution/Uniform/Uniform.cpp) . [O](Output/3/)  . [I](https://youtu.be/xCkggfKXd5Y?si=yQQgOAvYufK1Sfvs)|
 |8||Using GLM (OpenGL Maths Library)| |
 |9||Regarding GLM Identity Matrices||
-|10||Transforming - Translation ✔️| [C](OpenglCoursePracticeSolution/Translate/Translate.cpp) . [O](Output/4/Translate.exe) . [V](https://youtu.be/xCkggfKXd5Y?si=yQQgOAvYufK1Sfvs)|
-|11||Transforming - Rotation ✔️| [C](OpenglCoursePracticeSolution/Rotation/Rotation.cpp) . [O](Output/5/Rotation.exe)  . [V](https://youtu.be/rjVGYyT1bdQ?si=oVxplye3zsihkIcN)|
-|12||Transforming - Scaling ✔️| [C](OpenglCoursePracticeSolution/Scaling/Scaling.cpp) . [O](Output/6/Scaling.exe)  . [V](https://youtu.be/tW53CuFJUDY)|
+|10||Transforming - Translation ✔️| [C](OpenglCoursePracticeSolution/Translate/Translate.cpp) . [O](Output/4/Translate.exe) . [I](https://youtu.be/xCkggfKXd5Y?si=yQQgOAvYufK1Sfvs)|
+|11||Transforming - Rotation ✔️| [C](OpenglCoursePracticeSolution/Rotation/Rotation.cpp) . [O](Output/5/Rotation.exe) . [I](https://youtu.be/rjVGYyT1bdQ?si=oVxplye3zsihkIcN)|
+|12||Transforming - Scaling ✔️| [C](OpenglCoursePracticeSolution/Scaling/Scaling.cpp) . [O](Output/6/Scaling.exe) . [I](https://youtu.be/tW53CuFJUDY)|
 |13||Interpolation, Indexed Draws and Projections|T|
 |14||Interpolation ✔️ | [C](OpenglCoursePracticeSolution/Interpolation/Interpolation.cpp) . [O](Output/7/Interpolation.exe) . [I](images/output/6/interpolation.png)|
-|15||Indexed Draws ✔️ | [C](OpenglCoursePracticeSolution/IndexedDraws/IndexedDraws.cpp) . [O](Output/8/IndexedDraws.exe)  . [V](https://youtu.be/AMOz2GBiuRM?si=yA8PNzgMJGyyoUCm)|
-|16||Projections ✔️ | [C](OpenglCoursePracticeSolution/Projections/Projections.cpp) . [O](Output/9/Projections.exe)  . [V](https://youtu.be/nuzgIz1EvyQ?si=UG4qkJKYVjRMOwRN)|
-|17||Clean Up ✔️ | [C](OpenglCoursePracticeSolution/CleanUp/CleanUp.cpp) . [O](Output/10/CleanUp.exe)  . [I](images/output/clean_up.png)|
+|15||Indexed Draws ✔️ | [C](OpenglCoursePracticeSolution/IndexedDraws/IndexedDraws.cpp) . [O](Output/8/IndexedDraws.exe)  . [I](https://youtu.be/AMOz2GBiuRM?si=yA8PNzgMJGyyoUCm)|
+|16||Projections ✔️ | [C](OpenglCoursePracticeSolution/Projections/Projections.cpp) . [O](Output/9/Projections.exe)  . [I](https://youtu.be/nuzgIz1EvyQ?si=UG4qkJKYVjRMOwRN)|
+|17||Clean Up ✔️ | [C](OpenglCoursePracticeSolution/CleanUp/CleanUp.cpp) . [O](Output/10/CleanUp.exe) . [I](images/output/clean_up.png)|
 |C|The Camera|||
 |18||The Camera and User Input|T|
 |19||Camera: Input with GLFW  ❌| |
 |20||Camera: Facing Random Direction ❌| |
-|21||Camera: Movement ✔️| [C](OpenglCoursePracticeSolution/CameraMovement/CameraMovement.cpp) . [O](Output/11/CameraMovement.exe)  . [V](https://youtu.be/gbXbKwGfz58)|
+|21||Camera: Movement ✔️| [C](OpenglCoursePracticeSolution/CameraMovement/CameraMovement.cpp) . [O](Output/11/CameraMovement.exe)  . [I](https://youtu.be/gbXbKwGfz58)|
 |D|Intermediate|||
 |22||Textures and Image Loading|T|
 |23||Texture Mapping ✔️ | [C](OpenglCoursePracticeSolution/TextureMapping/TextureMapping.cpp) . [O](Output/12/TextureMapping.exe)  . [I](images/output/texture.png)|
@@ -58,8 +58,8 @@ opengl32.lib;glew32.lib;glfw3.lib;%(AdditionalDependencies)
 |27||Specular Lighting ✔️ | [C](OpenglCoursePracticeSolution/SpecularLighting/SpecularLighting.cpp) . [O](Output/15/SpecularLighting.exe) . [I](images/output/specular.png) |
 |28||Point Lights and Spot Lights|T|
 |29||Point Lights ✔️ | [C](OpenglCoursePracticeSolution/PointLights/PointLights.cpp) . [O](Output/16/PointLights.exe)  . [I](images/output/pointlight.png)|
-|30||Spot Lights| [C](OpenglCoursePracticeSolution/SpotLights/SpotLights.cpp) . [O]()  . [ I]()|
-|31||Model Importing| [C](OpenglCoursePracticeSolution/ModelImporting/ModelImporting.cpp) . [O]()  . [ I]()|
+|30||Spot Lights ✔️ | [C](OpenglCoursePracticeSolution/SpotLights/SpotLights.cpp) . [O](Output/17/SpotLights.exe) . [I](https://youtu.be/hiATmIne-0Q)|
+|31||Model Importing ✔️| [C](OpenglCoursePracticeSolution/ModelImporting/ModelImporting.cpp) . [O](Output/18/ModelImporting.exe) . [I](https://youtu.be/eZlVnELcC0w)|
 |E|Advanced|||
 |32||Shadow Mapping|T|
 |33||Directional Shadow Maps| [C](OpenglCoursePracticeSolution/DirectionalShadowMaps/DirectionalShadowMaps.cpp) . [O]()  . [ I]()|
