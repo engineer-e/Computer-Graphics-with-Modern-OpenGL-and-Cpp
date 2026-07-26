@@ -1,5 +1,12 @@
 # Computer-Graphics-with-Modern-OpenGL-and-Cpp
 
+* 👋 I am **Gobal Krishnan V**. I am doing this for learning purposes. 📚
+* 💻 I am using the material [Computer-Graphics-with-Modern-OpenGL-and-Cpp](https://www.udemy.com/course/graphics-with-modern-opengl/). It is written in C++, but I am implementing it in **Python** & **JavaScript**. 🚀
+* ⚠️ [My device](https://github.com/engineer-e/LLM-Python/blob/main/the_computer_i_used.md) was damaged due to voltage fluctuations. 💥💻 I am using my younger brother's laptop, ["Kishore Kumar V" 💻 Laptop](https://github.com/engineer-e/LLM-Python/blob/main/the_computer_i_using.md). ❤️ [system info](../Real-Time-Rendering/system_info.txt) ❤️, [gpu info](../Real-Time-Rendering//gpu_info.txt) ❤️
+* 🩺 Due to health issues, I resigned from my job in **June 2025**. 💼 I have been searching for a job for the past **1 year**, but I have not gotten one yet. 🙏
+
+
+
 ![final output](images/output/final/sky3.png)
 
 ### Path
