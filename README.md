@@ -1,5 +1,7 @@
 # Computer-Graphics-with-Modern-OpenGL-and-Cpp
 
+> Final output - [https://github.com/engineer-e/Game-OpenGL-Cpp/tree/main/output/ComputerGraphics/Release](https://github.com/engineer-e/Game-OpenGL-Cpp/tree/main/output/ComputerGraphics/Release)
+
 * 👋 I am **Gobal Krishnan V**. I am doing this for learning purposes. 📚
 * 💻 I am using the material [Computer-Graphics-with-Modern-OpenGL-and-Cpp](https://www.udemy.com/course/graphics-with-modern-opengl/). It is written in C++, but I am implementing it in **Python** & **JavaScript**. 🚀
 * ⚠️ [My device](https://github.com/engineer-e/LLM-Python/blob/main/the_computer_i_used.md) was damaged due to voltage fluctuations. 💥💻 I am using my younger brother's laptop, ["Kishore Kumar V" 💻 Laptop](https://github.com/engineer-e/LLM-Python/blob/main/the_computer_i_using.md). ❤️ [system info](https://github.com/engineer-e/Real-Time-Rendering/blob/main/system_info.txt) ❤️, [gpu info](https://github.com/engineer-e/Real-Time-Rendering/blob/main/gpu_info.txt) ❤️
