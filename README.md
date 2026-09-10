@@ -1,5 +1,7 @@
 # Computer-Graphics-with-Modern-OpenGL-and-Cpp
 
+
+
 > Final output - [https://github.com/engineer-e/Game-OpenGL-Cpp/tree/main/output/ComputerGraphics/Release](https://github.com/engineer-e/Game-OpenGL-Cpp/tree/main/output/ComputerGraphics/Release)
 
 * 👋 I am **Gobal Krishnan V**. I am doing this for learning purposes. 📚
@@ -86,3 +88,8 @@ opengl32.lib;glew32.lib;glfw3.lib;%(AdditionalDependencies)
 ### Anatomical Notes on Species
 
 1. [Human](images/human_anatomy/readme.md) 
+
+
+### History of OpenGL 
+
+[![Watch the video](https://img.youtube.com/vi/zE86S5n7gk8/maxresdefault.jpg)](https://youtu.be/zE86S5n7gk8?si=t9_BHC_jxj-z-vwX)
