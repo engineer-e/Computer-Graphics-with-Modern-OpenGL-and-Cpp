@@ -95,3 +95,5 @@ opengl32.lib;glew32.lib;glfw3.lib;%(AdditionalDependencies)
 > Watch the Video Full - You come to know  "Toy Story itself Generative Movie" in **1995** ?  
 
 [![Watch the video](https://img.youtube.com/vi/zE86S5n7gk8/maxresdefault.jpg)](https://youtu.be/zE86S5n7gk8?si=t9_BHC_jxj-z-vwX)
+
+[![Watch the video](https://img.youtube.com/vi/ghKR0PpaVls/maxresdefault.jpg)](https://youtu.be/ghKR0PpaVls?si=o8JPESDfwahbWYno)
